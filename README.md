@@ -4,7 +4,7 @@
 
 Go to http://enibeniraba.ru/hopjs/demo for demo.
 
-## Building hopjs
+## Building
 
 hopjs uses the Grunt build system.
 
