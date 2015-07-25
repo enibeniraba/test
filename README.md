@@ -2,7 +2,7 @@
 
 ## Demo
 
-Go to http://enibeniraba.ru/hopjs/demo from demos.
+Go to http://enibeniraba.ru/hopjs/demo for demo.
 
 ## Building hopjs
 
